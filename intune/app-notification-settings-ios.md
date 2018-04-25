@@ -101,6 +101,7 @@ The following list shows the bundle ID of some common built-in iOS apps. To find
 |Wallet|com.apple.Passbook|
 |Watch|com.apple.Bridge|
 |Weather|com.apple.weather|
+|Web Link|com.apple.webapp|
 
 ## Next steps
 
